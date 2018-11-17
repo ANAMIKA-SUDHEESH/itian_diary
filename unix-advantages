@@ -1,0 +1,7 @@
+unix
+
+For management of code repository, testing, checking the test results and even writing the test suites, shell scripting is a must.
+There are a lot of mundane jobs which can be done easily using the shell scripting without taking the help from high level languages.
+If you are writing a code for any sort of file management, your fist choice should be a shell script as well.
+For basic house keeping stuff, scheduling etc, it is better to take help from the shell instead from a sophisticated language.
+                  
